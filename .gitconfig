@@ -1,3 +1,0 @@
-[remote "origin"]
-    url = git@github.com:gamesbrainiac/TestProject.git
-    fetch = +refs/heads/*:refs/remotes/origin/*

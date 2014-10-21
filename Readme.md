@@ -4,3 +4,4 @@ This project is a collection of data structures written in pure python. The data
 
 - Binary Tree [TBA]
 - Trie        [TBA]
+- HashMaps
